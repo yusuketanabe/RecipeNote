@@ -1,2 +1,0 @@
-# RecipeNote
-cooking recipes
